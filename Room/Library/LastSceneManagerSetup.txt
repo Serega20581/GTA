@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/EmaceArt/All/Scene/It`s 80`s_Free.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
